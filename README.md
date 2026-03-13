@@ -12,7 +12,9 @@
       IT sohalari veb sayti va shunga o’xshash veb saytlarni yaratganman.<h2/>
 </body>
 </html>
-
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
 <pre align="center">
 ████████╗ ██████╗ ██╗  ██╗██╗██████╗  ██████╗ ██╗   ██╗
 ╚══██╔══╝██╔═══██╗╚██╗██╔╝██║██╔══██╗██╔═══██╗██║   ██║
