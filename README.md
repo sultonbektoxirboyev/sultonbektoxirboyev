@@ -36,35 +36,4 @@
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
      
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/matrix.svg" alt="Matrix animation"/>
-</p>
-     
-name: Generate Matrix Animation
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate matrix animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_USERNAME
-          outputs: |
-            dist/matrix.svg
-
-      - name: Push animation
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
