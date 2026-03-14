@@ -52,7 +52,7 @@
 Mening ko'nikmalarim
 </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,go,git,github,vscode,docker,kubernetes,aws,pnpm,mysql,postgres,jenkins,kafka,nginx,swift,apple,ps,ai&perline=14" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,nextjs,html,css,github,vscode,ai&perline=14" width="100%" />
 </p>
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
