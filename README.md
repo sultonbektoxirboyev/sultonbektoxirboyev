@@ -73,7 +73,6 @@ Mening ko'nikmalarim
 
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
-<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
 
 
 
