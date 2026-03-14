@@ -13,10 +13,7 @@
 </body>
 </html>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/dbunt1tled" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/denis-balagov-2bab35172" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
- **<h3 align="left">🚀 Passionate backend web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+![👋 Hi, my name is Denis Balagov](./github-header-image.png)
 
 <!-- salomlashish kodi -->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
