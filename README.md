@@ -40,8 +40,21 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation" />
 </p>
-
-
+<h2>
+Mening ko'nikmalarim
+</h2>
+ <a href="">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="" width="50">
+        </a>
+         <a href="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="" width="50">
+        </a>
+        <a href="">
+            <img src="https://skillforge.com/wp-content/uploads/2020/10/javascript.png" alt="" width="50">
+        </a>
+        <a href="">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Fj0zoSD0e4V7siSTI221US9cMrtjc8A2og&s" width="50">
+        </a>
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
