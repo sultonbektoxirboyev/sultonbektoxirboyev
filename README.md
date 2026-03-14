@@ -15,22 +15,22 @@
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
-<pre align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:8A2BE2,100:000000&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
+</p>
+
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
+  <pre align="center">
 ████████╗ ██████╗ ██╗  ██╗██╗██████╗  ██████╗ ██╗   ██╗
 ╚══██╔══╝██╔═══██╗╚██╗██╔╝██║██╔══██╗██╔═══██╗██║   ██║
    ██║   ██║   ██║ ╚███╔╝ ██║██████╔╝██║   ██║██║   ██║
    ██║   ██║   ██║ ██╔██╗ ██║██╔══██╗██║   ██║╚██╗ ██╔╝
    ██║   ╚██████╔╝██╔╝ ██╗██║██║  ██║╚██████╔╝ ╚████╔╝ 
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
-</pre>
+</pre>        
 
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
-     alt="Rainbow Line">
-          
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:8A2BE2,100:000000&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
-</p>
 
 <!--chiziqni kodi-->
 
