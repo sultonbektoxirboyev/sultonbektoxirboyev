@@ -51,19 +51,9 @@
 <h2>
 Mening ko'nikmalarim
 </h2>
- <a href="">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="" width="50">
-        </a>
-         <a href="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="" width="50">
-        </a>
-        <a href="">
-            <img src="https://skillforge.com/wp-content/uploads/2020/10/javascript.png" alt="" width="50">
-        </a>
-        <a href="">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Fj0zoSD0e4V7siSTI221US9cMrtjc8A2og&s" width="50">
-        </a>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,github,vscode,leet code" width="100%" />
+</p>
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
