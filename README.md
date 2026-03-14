@@ -12,6 +12,19 @@
       IT sohalari veb sayti va shunga o’xshash veb saytlarni yaratganman.<h2/>
 </body>
 </html>
+
+<!-- boshqa profildan olingan kod -->
+![Profile views](https://komarev.com/ghpvc/?username=dbunt1tled&label=Profile%20views&color=0e75b6&style=flat) [![committers.top Ukraine](https://user-badge.committers.top/ukraine/dbunt1tled.svg)](https://user-badge.committers.top/ukraine/dbunt1tled)
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi my name is <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=435&lines=Denis" alt="Typing SVG" />
+      </h1>
+    </summary>
+  </ul>
+</div>
+<!-- salomlashish kodi -->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
