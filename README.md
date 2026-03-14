@@ -13,7 +13,6 @@
 </body>
 </html>
 
-![👋 Hi, my name is Denis Balagov](./github-header-image.png)
 
 <!-- salomlashish kodi -->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
