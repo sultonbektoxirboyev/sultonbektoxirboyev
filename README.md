@@ -66,10 +66,6 @@ Mening ko'nikmalarim
      
 <!-- 🐍 Contribution Snake --> 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation" />
-</p>
-
 
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
