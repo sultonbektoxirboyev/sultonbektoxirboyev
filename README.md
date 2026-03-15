@@ -57,21 +57,25 @@
   <img src="https://streak-stats.demolab.com/?user=sultonbektoxirboyev&theme=tokyonight" height="180"/>
 </p>
 
-<!--chiziqni kodi-->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+<!-- chiziq -->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca"
+     style="width:100%; height:auto; display:block; margin:0; padding:0;"
      alt="Rainbow Line">
-<!-- 🐍 Contribution Snake --> 
+
+<!-- 🐍 Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sultonbektoxirboyev/sultonbektoxirboyev/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/sultonbektoxirboyev/sultonbektoxirboyev/output/snake.svg" alt="snake animation"/>
 </p>
-<!--chiziqni kodi-->
-<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
-     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+
+<!-- chiziq -->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca"
+     style="width:100%; height:auto; display:block; margin:0; padding:0;"
      alt="Rainbow Line">
-<p align="center" >
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-<p/>
+
+<!-- Pacman Contribution -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505" alt="pacman contribution graph"/>
+</p>
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
