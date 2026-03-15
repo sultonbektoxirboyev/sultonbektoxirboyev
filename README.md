@@ -6,6 +6,30 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff007f,25:39FF14,50:00FF00,75:8A2BE2,100:ff007f&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
+<!--python developer yozuv codi-->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+       style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+       alt="Rainbow Line">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff007f,50:39FF14,100:000000&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+</p>
+
+<p align="center">
+  <span style="font-size: 50px; font-weight: bold; background-image: linear-gradient(to right, #ff007f, #39FF14, #00FF00, #8A2BE2); -webkit-background-clip: text; color: transparent; animation: rainbow 3s linear infinite;">
+    Python Developer
+  </span>
+</p>
+
+<style>
+  @keyframes rainbow {
+    0%, 100% { background-image: linear-gradient(to right, #ff007f, #39FF14, #00FF00, #8A2BE2); }
+    50% { background-image: linear-gradient(to right, #00FF00, #ff007f, #39FF14, #8A2BE2); }
+  }
+</style>
+<!--menhaqimda codi-->
 <h1>
 Men haqimda:
 </h1>
