@@ -70,7 +70,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation" />
 </p>
+
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
+
+<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
 
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
