@@ -80,6 +80,5 @@
      alt="Rainbow Line">
 <!--hayrlashuv-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Hope+you+liked+this+project!;Don't+forget+to+give+it+a+⭐">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff"/>
 </p>
-
