@@ -80,13 +80,18 @@
      alt="Rainbow Line">
 <!--hayrlashuv-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=140&section=footer&text=Thanks%20for%20Visiting%20My%20Project!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=footer&text=Thanks%20for%20Visiting%20My%20GitHub!&fontSize=38&fontColor=00FFFF&animation=twinkling&fontAlignY=70"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+checking+out+my+project!;Hope+you+liked+it!;Don't+forget+to+star⭐"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=900&color=00FFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Universe+🚀;Thanks+for+checking+out+my+project!;Stay+curious+and+keep+coding+💻;Don't+forget+to+give+a+⭐"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sultonbektoxirboyev&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sultonbektoxirboyev&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sultonbektoxirboyev&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
+</p>
+
