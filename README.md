@@ -11,8 +11,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I+love+Programming;HTML+CSS+JavaScript+Developer;Always+Learning+New+Things" />
 </p>
-
----
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
 
 ### 🚀 About Me
 
@@ -23,27 +25,52 @@
       tillarinini to’liq o’rganib chiqqanman.Va men instagram cloni , 
       IT sohalari veb sayti va shunga o’xshash veb saytlarni yaratganman.<h2/>
         
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
+  <pre align="center">
+████████╗ ██████╗ ██╗  ██╗██╗██████╗  ██████╗ ██╗   ██╗
+╚══██╔══╝██╔═══██╗╚██╗██╔╝██║██╔══██╗██╔═══██╗██║   ██║
+   ██║   ██║   ██║ ╚███╔╝ ██║██████╔╝██║   ██║██║   ██║
+   ██║   ██║   ██║ ██╔██╗ ██║██╔══██╗██║   ██║╚██╗ ██╔╝
+   ██║   ╚██████╔╝██╔╝ ██╗██║██║  ██║╚██████╔╝ ╚████╔╝ 
+   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
+</pre>        
+ <!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">       
 ### 🛠️ Ko'nikmalarim
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
-
----
-
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sultonbektoxirboyev&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultonbektoxirboyev&layout=compact&theme=tokyonight)
 
----
-
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sultonbektoxirboyev&theme=tokyonight)
 
----
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
 <!-- 🐍 Contribution Snake --> 
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
