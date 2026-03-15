@@ -33,8 +33,8 @@
    ██║   ╚██████╔╝██╔╝ ██╗██║██║  ██║╚██████╔╝ ╚████╔╝ 
    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
 </pre>        
-
-
+<!--Toxirov pastidagi animatsiya-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 <!--chiziqni kodi-->
 
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
@@ -73,11 +73,4 @@ Mening ko'nikmalarim
 <!--Pro'filga tashrif buyuruvchilar-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sultonbektoxirboyev&color=blueviolet&style=flat">
-</p>ng ko'p ishlatiladigan tillar
-<h2>
-    Eng ko'p ishlatiladigan tillar
-</h2>
-<!--eng ko'p ishlatiladigan tillar-->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultonbektoxirboyev&layout=compact&theme=radical">
 </p>
