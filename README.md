@@ -78,4 +78,7 @@ Mening ko'nikmalarim
      alt="Rainbow Line">
 <!--Wakanda uslubida ko'rsatuvchi kartochka-->
 ![GitHub Wakanda](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sultonbektoxirboyev&theme=tokyonight)
-
+<!--Pro'filga tashrif buyuruvchilar-->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sultonbektoxirboyev&color=blueviolet&style=flat">
+</p>
