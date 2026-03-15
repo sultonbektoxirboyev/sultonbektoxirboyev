@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sultonbektoxirboyev&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
