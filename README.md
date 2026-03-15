@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff007f,25:39FF14,50:00FF00,75:8A2BE2,100:ff007f&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
+<h1>
+Men haqimda:
+</h1>
 <h2>Salom mening ismim Tohirboyev Sultonbek. Men Xorazm viloyati Xonqa tumanida yashayman. 
       Hozirda Matematika va IT sohasi bilan shug‘ullanmoqdaman. 
       Kelajakda men eng yaxshi IT mutaxasisi bo'lishni niyat qilganman.
