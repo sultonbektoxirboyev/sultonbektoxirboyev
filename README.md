@@ -50,11 +50,9 @@
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sultonbektoxirboyev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sultonbektoxirboyev&layout=compact&theme=tokyonight)
 
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
