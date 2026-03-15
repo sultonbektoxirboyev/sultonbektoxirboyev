@@ -76,4 +76,6 @@ Mening ko'nikmalarim
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
+<!--<!--chiziqni kodi-->-->
+![GitHub Wakanda](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sultonbektoxirboyev&theme=tokyonight)
 
