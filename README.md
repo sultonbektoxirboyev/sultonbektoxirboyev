@@ -77,3 +77,31 @@
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
+
+
+
+<!--smnake-->
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+steps:
+ - uses: Platane/snk@v3
+   with:
+   github_user_name: USERNAME
+    outputs: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
