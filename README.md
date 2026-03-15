@@ -64,7 +64,7 @@
 
 <!-- 🐍 Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sultonbektoxirboyev/sultonbektoxirboyev/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation"/>
 </p>
 
 <!-- chiziq -->
