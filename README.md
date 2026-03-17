@@ -80,10 +80,9 @@
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
 <!--barcelona icon-->
-<div style="width:120px;height:150px;border:4px solid gold;
-border-radius:20px 20px 80px 80px;
-background:linear-gradient(to right,#a50044 50%,#004d98 50%)">
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Barcelona-004D98?style=for-the-badge&logo=fcbarcelona&logoColor=A50044"/>
+</p>
 <!--hayrlashuv-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=140&section=footer&text=Thanks%20for%20Visiting%20My%20Project!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
