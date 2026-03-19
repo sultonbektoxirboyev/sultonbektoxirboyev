@@ -55,7 +55,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sultonbektoxirboyev&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://streak-stats.demolab.com/?user=sultonbektoxirboyev&theme=tokyonight" height="160"/>
-</p>
+</p>  
 <!-- chiziq -->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca"
      style="width:100%; height:auto; display:block; margin:0; padding:0;"
