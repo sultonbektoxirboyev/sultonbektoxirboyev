@@ -25,7 +25,13 @@
       Men Muhammad Al Xorazmiy vorislari loyihasida Html, CSS , JavaScript va Python dasturlash
       tillarinini to’liq o’rganib chiqqanman.Va men instagram cloni , 
       IT sohalari veb sayti va shunga o’xshash veb saytlarni yaratganman.<h2/>
-        
+ <div style="width:300px; height:150px; border:1px solid #000; position: relative;">
+  <div style="background:#0099b5; height:50px;"></div>
+  <div style="height:3px; background:red;"></div>
+  <div style="background:#fff; height:50px;"></div>
+  <div style="height:3px; background:red;"></div>
+  <div style="background:#1eb53a; height:50px;"></div>
+</div>     
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
@@ -45,7 +51,7 @@
 ### 🛠️ Ko'nikmalarim
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,uz" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
 </p>
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
