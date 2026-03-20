@@ -45,7 +45,7 @@
 ### 🛠️ Ko'nikmalarim
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,uz" />
 </p>
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
