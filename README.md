@@ -10,7 +10,7 @@
 
 <!-- java deb yozuvchi kod -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I+love+Programming;HTML+CSS+JavaScript+Python+Developer;Always+Learning+New+Things;PRIVET+AZIZBEK" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I+love+Programming;HTML+CSS+JavaScript+Python+Developer;Always+Learning+New+Things" />
 </p>
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
