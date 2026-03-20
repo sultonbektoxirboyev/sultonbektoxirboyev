@@ -5,7 +5,7 @@
 
 <!-- salomlashish kodi -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff007f,25:39FF14,50:00FF00,75:8A2BE2,100:ff007f&text=Welcome%20to%20my%20profile!💻&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff007f,25:39FF14,50:00FF00,75:8A2BE2,100:ff007f&text=💻Welcome%20to%20my%20profile!💻&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
 
 <!-- java deb yozuvchi kod -->
