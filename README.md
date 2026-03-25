@@ -92,7 +92,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+checking+out+my+project!;Hope+you+liked+it!;Don't+forget+to+star⭐😊"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+checking+out+my+project!;Hope+you+liked+it!;Don't+forget+to+star"/>
 </p>
 
 <p align="center">
