@@ -62,6 +62,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sultonbektoxirboyev&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
+ <Faollik (contributions)
+<![graph](https://github-readme-activity-graph.vercel.app/graph?username=sultonbektoxirboyev&theme=tokyo-night)>
+
 <!-- chiziq -->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca"
      style="width:100%; height:auto; display:block; margin:0; padding:0;"
