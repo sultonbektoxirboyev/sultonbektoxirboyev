@@ -53,8 +53,8 @@
      alt="Rainbow Line">
 <!--Statistikani kodi-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultonbektoxirboyev&show_icons=true&theme=tokyonight" width="300"/>
-  <img src="https://streak-stats.demolab.com/?user=sultonbektoxirboyev&theme=tokyonight" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sultonbektoxirboyev&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://streak-stats.demolab.com/?user=sultonbektoxirboyev&theme=tokyonight" height="160">
 </p>
 📊 GitHub Analytics
 </div>
